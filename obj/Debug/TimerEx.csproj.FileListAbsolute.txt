@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Projects_C#\Hw_c#\TimerEx\bin\Debug\TimerEx.exe.config
+C:\Users\User\Desktop\Projects_C#\Hw_c#\TimerEx\bin\Debug\TimerEx.exe
+C:\Users\User\Desktop\Projects_C#\Hw_c#\TimerEx\bin\Debug\TimerEx.pdb
+C:\Users\User\Desktop\Projects_C#\Hw_c#\TimerEx\obj\Debug\TimerEx.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects_C#\Hw_c#\TimerEx\obj\Debug\TimerEx.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects_C#\Hw_c#\TimerEx\obj\Debug\TimerEx.exe
+C:\Users\User\Desktop\Projects_C#\Hw_c#\TimerEx\obj\Debug\TimerEx.pdb
